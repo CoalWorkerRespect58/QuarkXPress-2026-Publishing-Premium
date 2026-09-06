@@ -1,0 +1,23 @@
+{
+  "repo": "quarkxpress-2026-publishing-premium",
+  "product": "QuarkXPress 2026 Publishing Premium",
+  "kind": "utility",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "utility",
+  "topics": [
+    "quarkxpress",
+    "page-layout",
+    "print-publishing",
+    "typography-tools",
+    "prepress-export",
+    "quark-setup-failed-fix",
+    "how-to-install-quark",
+    "quark-windows",
+    "quark-desktop-2026",
+    "quark-desktop-package"
+  ],
+  "site": "toolix.me"
+}
